@@ -1,0 +1,12 @@
+{
+  "name": "Discord XP Bot",
+  "version": "1.0.0",
+  "description": "Discord XP Bot",
+  "main": "discordxpbot.js",
+  "author": "Krister Iversen",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+  }
+}
